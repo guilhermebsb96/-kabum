@@ -10,6 +10,7 @@
 4-: Acesso ao Projeto:
   Para acessar o projeto, C:\wamp64\www\login (12 arquivos em .php)
   Para inicial salve os arquivos ".PHP" na pasta indicada acima e no navegador o caminho http://localhost/login
+  + o arquivo login.sql
   
   Para acessar o banco de dados:
   http://localhost/phpmyadmin
