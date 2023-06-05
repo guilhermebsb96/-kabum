@@ -1,0 +1,19 @@
+1-: Descrição:
+  Sistema de login(usuario e senha)juntamente com opções de listar, incluir, editar e excluir)
+  
+2-: Explicação de como foi desenvolvido:
+  Usei o visual cod para desenvolver via PHP com HTML, usei o Wampserver(MySql) como opção visual do banco de dados. 
+
+3-: Status do Projeto:
+  Projeto em teste.
+
+4-: Acesso ao Projeto:
+  Para acessar o projeto, C:\wamp64\www\login (12 arquivos em .php)
+  Para inicial salve os arquivos ".PHP" na pasta indicada acima e no navegador o caminho http://localhost/login
+  
+  Para acessar o banco de dados:
+  http://localhost/phpmyadmin
+  No campo 'senha' gerei em varchar 255 o que é recomendado em PHP para criptografia de senha
+  
+ 5-: Tecnologias utilizadas:
+  Visual Studio cod (programar em PHP,HTML) e Wampserver(MySql)
